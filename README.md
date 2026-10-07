@@ -14,6 +14,21 @@ Mastering the right development tools is essential because they streamline our w
 
 ## Carlos Adenge – Git & GitHub Tips
 
+**Git** is the most important tool for any developer. Here are the commands I use every day:
+
+- `git status` – check what has changed
+- `git add .` – stage all files
+- `git commit -m "descriptive message"` – save your work
+- `git push origin branch-name` – send it to GitHub
+- `git pull` – get the latest changes from the team
+
+**Pro tips:**
+- Always write clear and meaningful commit messages.
+- Use branches for every new feature or section.
+- Install the **GitLens** extension in VS Code – it makes reading history much easier.
+
+I am currently learning web development at IYF Weekend Academy Season 12 and enjoying the collaboration process.
+
 ---
 
 ## Stacy Otieno - HTML TIPS
