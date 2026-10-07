@@ -9,12 +9,10 @@ Mastering the right development tools is essential because they streamline our w
 ## Table of Contents
 - [Carlos Adenge – Git & GitHub Tips]
 - [Stacy Otieno - HTML]
-- [Member 3 Section](#member-3-section)
 
 ---
 
 ## Carlos Adenge – Git & GitHub Tips
-*(This section will be filled by a pull request)*
 
 ---
 
@@ -24,5 +22,3 @@ Mastering the right development tools is essential because they streamline our w
 
 ---
 
-## Member 3 Section
-*(This section will be filled by a pull request)*
