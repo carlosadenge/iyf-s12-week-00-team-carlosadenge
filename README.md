@@ -7,7 +7,6 @@ Welcome to our team repository! This is a mini knowledge base where each member 
 ## Table of Contents
 - [Carlos Adenge – Git & GitHub Tips](#carlos-adenge--git--github-tips)
 - [Member 2 Section](#member-2-section)
-- [Member 3 Section](#member-3-section)
 
 ---
 
