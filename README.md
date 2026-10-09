@@ -3,7 +3,7 @@
 ## Introduction
 Welcome to our team repository! This is a mini knowledge base where each member shares useful tips about tools, languages, or study techniques that help us succeed in the IYF Wecan Academy Season 12.
 
-Mastering the right development tools is essential because they streamline our workflow, automate repetitive tasks, and help us write cleaner, more maintainable code.
+Mastering development tools is critical to streamlining workflows, automating repetitive tasks, and ensuring clean, maintainable code.
 
 
 ## Table of Contents
