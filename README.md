@@ -35,6 +35,7 @@ I am currently learning web development at IYF Weekend Academy Season 12 and enj
 * **Semantic Tags:** Always use semantic elements like `<header>`, `<nav>`, `<main>`, `<section>`, and `<footer>` instead of generic `<div>` tags whenever possible. It improves accessibility and SEO!
 * **Image Alt Text:** Always include `alt` attributes on your `<img>` tags (`<img src="..." alt="description">`) so screen readers can describe images to visually impaired users.
 * **Video Tag:** The <video> tag is used to embed video content in a document, such as a movie clip or other video streams.
+*  **Quote Attributes:** Always place attribute values inside quotes (e.g., class="container" instead of class=container).
 
 ---
 
