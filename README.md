@@ -7,8 +7,8 @@ Mastering the right development tools is essential because they streamline our w
 
 
 ## Table of Contents
-- [Carlos Adenge – Git & GitHub Tips]
-- [Stacy Otieno - HTML]
+- [Carlos Adenge – Git & GitHub Tips](#carlos-adenge--git--github-tips)
+- [Stacy Otieno – HTML Tips](#stacy-otieno--html-tips)
 
 ---
 
