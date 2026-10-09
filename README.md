@@ -7,8 +7,8 @@ Mastering development tools is critical to streamlining workflows, automating re
 
 
 ## Table of Contents
-- [Carlos Adenge – Git & GitHub Tips]
-- [Stacy Otieno - HTML]
+- [Carlos Adenge – Git & GitHub Tips](#carlos-adenge--git--github-tips)
+- [Stacy Otieno – HTML Tips](#stacy-otieno--html-tips)
 
 ---
 
